@@ -1,0 +1,34 @@
+body{
+background: cadetblue;
+}
+form{
+    margin-left: 100px;
+    margin-right: 100px;
+    background: white;
+}
+label {
+    display: block;
+
+}
+input{
+    display: block;
+    border: white;
+    border-bottom: 2px solid darkgrey;
+
+}
+
+button#dn{
+    background: cornflowerblue;
+    color: white;
+}
+.linkk{
+    display: block;
+}
+.fb{
+    background: cornflowerblue;
+    width: 100%;
+}
+.gg{
+    background: crimson;
+    width: 100%;
+}
